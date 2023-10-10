@@ -5,11 +5,6 @@ print(name.title())
 
 # Take 5 numbers from user and add duplicate and then print the non duplicate numbers
 
-# str1 = input("Enter numbers separated by space \n")
-# print(str1)
-# list1 = str1.split(" ")
-# print(list1)
-
 num1 = int(input("Enter 1st number : "))
 num2 = int(input("Enter 2nd number : "))
 num3 = int(input("Enter 3rd number : "))
