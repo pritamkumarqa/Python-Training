@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91c7584e-ceab-464b-a3b2-25a7c40870c2" name="Changes" comment="" />
+    <list default="true" id="91c7584e-ceab-464b-a3b2-25a7c40870c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,18 +28,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;/Users/pritamkumar/PycharmProjects/AutomationClass&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/Users/pritamkumar/PycharmProjects/AutomationClass/Assignments/Lab13Oct"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignments/Lab13Oct" />
+      <recent name="$PROJECT_DIR$/Assignments" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignments/Lab13Oct" />
+      <recent name="$PROJECT_DIR$/Assignments/Lab16Oct" />
       <recent name="$PROJECT_DIR$/practice-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab001">
-    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Lab13Oct-1">
+    <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice-programs/Lab001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice-programs/Lab002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab2Oct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab13Oct-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab2Oct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab13Oct/Lab13Oct-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab4Oct" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lab16Oct-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab4Oct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab16Oct/Lab16Oct-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab6Oct" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lab16Oct-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab6Oct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab16Oct/Lab16Oct-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab9Oct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab16Oct-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab9Oct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab16Oct/Lab16Oct-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,19 +173,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.Lab2Oct" />
-      <item itemvalue="Python.Lab001" />
-      <item itemvalue="Python.Lab4Oct" />
-      <item itemvalue="Python.Lab6Oct" />
-      <item itemvalue="Python.Lab9Oct" />
+      <item itemvalue="Python.Lab13Oct-1" />
+      <item itemvalue="Python.Lab16Oct-1" />
+      <item itemvalue="Python.Lab16Oct-2" />
+      <item itemvalue="Python.Lab16Oct-3" />
+      <item itemvalue="Python.Lab002" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab001" />
-        <item itemvalue="Python.Lab6Oct" />
-        <item itemvalue="Python.Lab4Oct" />
-        <item itemvalue="Python.Lab2Oct" />
-        <item itemvalue="Python.Lab001" />
+        <item itemvalue="Python.Lab13Oct-1" />
+        <item itemvalue="Python.Lab16Oct-1" />
+        <item itemvalue="Python.Lab16Oct-3" />
+        <item itemvalue="Python.Lab16Oct-2" />
+        <item itemvalue="Python.Lab002" />
       </list>
     </recent_temporary>
   </component>
