@@ -1,4 +1,5 @@
 # Find the factorial of a integer given the input by user
+# 0 1 1 2 3 5 8 13 21
 num1 = int(input("Enter the number till where fibonacci series to be printed \n"))
 a = 0
 b = 1
