@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="91c7584e-ceab-464b-a3b2-25a7c40870c2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Lab30Oct/Lab30Oct-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Lab30Oct/Lab30Oct-5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,19 +29,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;/Users/pritamkumar/PycharmProjects/AutomationClass/Assignments/Lab30Oct&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/Users/pritamkumar/PycharmProjects/AutomationClass/Assignments/Lab03Nov",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignments/Lab03Nov" />
+      <recent name="$PROJECT_DIR$/pytestDemo" />
+      <recent name="$PROJECT_DIR$/practice-programs" />
       <recent name="$PROJECT_DIR$/Assignments/Lab30Oct" />
       <recent name="$PROJECT_DIR$/SeleniumScripts" />
-      <recent name="$PROJECT_DIR$/Assignments/Lab27Oct" />
-      <recent name="$PROJECT_DIR$/Assignments/Lab23Oct" />
-      <recent name="$PROJECT_DIR$/Assignments/Lab20Oct" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/oops_concepts" />
@@ -49,8 +50,8 @@
       <recent name="$PROJECT_DIR$/practice-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab30Oct-5">
-    <configuration name="Lab30Oct-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab03Nov-2">
+    <configuration name="Lab005 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/Lab30Oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops_concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab30Oct/Lab30Oct-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops_concepts/Lab005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab30Oct-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/Lab30Oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice-programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab30Oct/Lab30Oct-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice-programs/Lab006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab30Oct-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/Lab30Oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice-programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab30Oct/Lab30Oct-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice-programs/Lab007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab30Oct-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab03Nov-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/Lab30Oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/Lab03Nov" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab30Oct/Lab30Oct-4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab03Nov/Lab03Nov-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab30Oct-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab03Nov-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/Lab30Oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/Lab03Nov" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab30Oct/Lab30Oct-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Lab03Nov/Lab03Nov-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,19 +179,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.Lab30Oct-1" />
-      <item itemvalue="Python.Lab30Oct-2" />
-      <item itemvalue="Python.Lab30Oct-3" />
-      <item itemvalue="Python.Lab30Oct-4" />
-      <item itemvalue="Python.Lab30Oct-5" />
+      <item itemvalue="Python.Lab005 (1)" />
+      <item itemvalue="Python.Lab03Nov-1" />
+      <item itemvalue="Python.Lab03Nov-2" />
+      <item itemvalue="Python.Lab006" />
+      <item itemvalue="Python.Lab007" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab30Oct-5" />
-        <item itemvalue="Python.Lab30Oct-4" />
-        <item itemvalue="Python.Lab30Oct-3" />
-        <item itemvalue="Python.Lab30Oct-2" />
-        <item itemvalue="Python.Lab30Oct-1" />
+        <item itemvalue="Python.Lab03Nov-2" />
+        <item itemvalue="Python.Lab03Nov-1" />
+        <item itemvalue="Python.Lab005 (1)" />
+        <item itemvalue="Python.Lab007" />
+        <item itemvalue="Python.Lab006" />
       </list>
     </recent_temporary>
   </component>
